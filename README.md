@@ -1,2 +1,13 @@
-# Melodify
-Music composition app, allowing users to compose a piece of music with the assistance of a computer. Completed as part of a group project for the University of Nottingham, contributors found in read.me
+# MUSI3071 Emotive Musical Decision Tree
+
+necessary installs for running program
+
+```
+pip install pygame pydub simpleaudio
+```
+
+controlled using number keys.
+
+## Input:
+I use pianoteq8 for sound output, and vmpk for input.
+Should work with a midi piano

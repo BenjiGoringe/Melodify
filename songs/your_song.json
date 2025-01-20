@@ -1,0 +1,13 @@
+{
+    "name": "Your Song",
+    "bpm": 120,
+    "melody": [
+        {
+            "time": 234,
+            "duration": 2,
+            "tone": "C1",
+            "branch": 0
+        }
+    ],
+    "backing": []
+}
