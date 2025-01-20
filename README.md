@@ -1,12 +1,16 @@
 # MUSI3071 Emotive Musical Decision Tree
 
-necessary installs for running program
+## Contributors
+<ul>
+  <li>Jonathan Moore</li>
+  <li>Christopher Wainwright</li>
+  <li>James Bateman</li>
+  <li>Benjamin Goringe</li>
+  <li>Cheuk Yin Tze</li>
+  <li>Amelia Walastyan</li>
+  <li>Ngoc Nguyen</li>
+</ul>
 
-```
-pip install pygame pydub simpleaudio
-```
-
-controlled using number keys.
 
 ## Input:
 I use pianoteq8 for sound output, and vmpk for input.
